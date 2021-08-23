@@ -1,0 +1,3 @@
+/home/panchis/Desktop/CMake_Examples/Example1/out/build/CMakeFiles/edit_cache.dir
+/home/panchis/Desktop/CMake_Examples/Example1/out/build/CMakeFiles/rebuild_cache.dir
+/home/panchis/Desktop/CMake_Examples/Example1/out/build/CMakeFiles/Example.dir

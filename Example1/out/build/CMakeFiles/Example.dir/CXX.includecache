@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/panchis/Desktop/CMake_Examples/Example1/Matrix.cpp
+Matrix.hpp
+/home/panchis/Desktop/CMake_Examples/Example1/Matrix.hpp
+
+/home/panchis/Desktop/CMake_Examples/Example1/Matrix.hpp
+iostream
+-
+time.h
+-
+math.h
+-
+vector
+-
+cstdlib
+-
+
+/home/panchis/Desktop/CMake_Examples/Example1/main.cpp
+iostream
+-
+Matrix.hpp
+/home/panchis/Desktop/CMake_Examples/Example1/Matrix.hpp
+
